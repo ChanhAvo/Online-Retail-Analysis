@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+sqlalchemy
+pymysql
+mysql-connector-python
+python-dotenv
+scikit-learn
+mlxtend
