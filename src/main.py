@@ -1,7 +1,7 @@
 import time 
-from src.ingest import run_ingestion 
+from src.ingest.ingest import run_ingestion 
 from src.transform import run_transformation 
-from src.model import rfm_clustering 
+from src.model.model import rfm_clustering 
 
 def main():
     try: 
